@@ -1,0 +1,8 @@
+html, js, css
+
+index.html (default root page)
+js files will go in a "scripts" folder
+css files will go in a "css" folder (some people use "styles")
+
+Atom is an IDE (Integrated Development Environment)
+Aside: Multiple Desktops (3 finger swipe l/r)
